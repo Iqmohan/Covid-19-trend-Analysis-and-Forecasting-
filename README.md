@@ -24,10 +24,11 @@ step 7 : Death cases over time
 ![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/e346713a-ae67-4684-853a-d2f2834be536)
 
 step 8: most active cases
-![Uploading image.png…]()
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/1a3694f1-afb2-4848-b06b-1c7b683bb0c6)
+
 
 step 9 : 7 day forecasts for confirmed cases
-![Uploading image.png…]()
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/2c875fe9-59e4-4e5b-81d5-3c94180f02af)
 
 
 
