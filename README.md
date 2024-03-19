@@ -18,7 +18,6 @@ step 5: Countries with confirmed Cases
 
 
 step 6: world wide confirmed cases over time
-![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/941ca93b-1f91-458c-ad36-3a6d12b75679)
 
 step 7 : Death cases over time
 ![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/e346713a-ae67-4684-853a-d2f2834be536)
