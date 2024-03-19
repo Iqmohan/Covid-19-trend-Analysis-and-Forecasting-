@@ -10,17 +10,24 @@ step 2: df["confirmed"] - df["deaths"] - df["recovered"]: This performs element-
 step 3: Fetch countries having most active cases in any particular date.
 Step 4: Countries with Active Cases
 
-![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/3cce27e1-0649-4bdd-97db-868de8e63354)
- 
-step 5: Countries with confirmed Cases
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/48221c99-528a-413a-acaa-2e8617be9d0e)
 
-![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/db4e038c-ede3-4e8c-89b0-35772cb73262)
+ 
+step 5: Countries with confirmed cases
+
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/d7472798-fbbd-4daf-909f-3c9c9bb129dd)
+
 
 
 step 6: world wide confirmed cases over time
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/aa16f312-0e4f-4f40-a304-492959bb5571)
 
 step 7 : Death cases over time
-![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/e346713a-ae67-4684-853a-d2f2834be536)
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/9b11094f-fcd3-47cd-b27f-69602586696c)
+
+step 8:World Wide Active Cases
+![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/88e66dc0-6f27-473c-9fa1-41e98a4ad247)
+
 
 step 8: most active cases
 ![image](https://github.com/Iqmohan/Covid-19-trend-Analysis-and-Forecasting-/assets/159016465/1a3694f1-afb2-4848-b06b-1c7b683bb0c6)
